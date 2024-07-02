@@ -1,10 +1,10 @@
 # Organizapp
 
-Hackatruck Markerspace Final Project
+Final Project for Hackatruck Makerspace
 
 ## Developers
-- [Ádrian dos Santos Gama](https://gitlab.com/jusqua)
-- [Carlos Adriano Gama Cerqueira](https://gitlab.com/biribas)
+- [Ádrian dos Santos Gama](https://github.com/jusqua)
+- [Carlos Adriano Gama Cerqueira](https://github.com/biribas)
 - [Rômulo Menezes Santana](https://github.com/romuloms)
 - [José Batista da Cruz Neto](https://github.com/JoseBatistaCN)
 
